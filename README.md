@@ -29,7 +29,7 @@ This project was started on september 2019 and completed on December 2019.
 ![Image of ClinicSearch](https://github.com/Syndicate555/CliniCare/blob/master/Screenshots/Clinic_Search.jpg)
 
 ### Admin Functionality - Deleting existing User & Employee Accounts 
-![Image of ClinicSearch](https://github.com/Syndicate555/CliniCare/blob/master/Screenshots/Admin_fuctionality.jpg)
+![Image of ClinicSearch](https://github.com/Syndicate555/CliniCare/blob/master/Screenshots/Admin_Functionality.jpg)
 
 ### User Rating Page
 ![Image of UserRating](https://github.com/Syndicate555/CliniCare/blob/master/Screenshots/UserRating_page.jpg)
