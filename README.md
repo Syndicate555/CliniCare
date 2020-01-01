@@ -27,7 +27,7 @@ A mobile android application developed in Android  Studio as part of my semester
 ![Image of ClinicSearch](https://github.com/Syndicate555/CliniCare/blob/master/Screenshots/Clinic_Search.jpg)
 
 ### Admin Functionality - Deleting existing User & Employee Accounts 
-![Image of AdminFuctionality](https://github.com/Syndicate555/CliniCare/blob/master/Screenshots/Admin_Fuctionality.jpg)
+(https://github.com/Syndicate555/CliniCare/blob/master/Screenshots/Admin_Fuctionality.jpg)
 
 ### User Rating Page
 ![Image of UserRating](https://github.com/Syndicate555/CliniCare/blob/master/Screenshots/UserRating_page.jpg)
