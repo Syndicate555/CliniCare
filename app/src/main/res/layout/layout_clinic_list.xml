@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/divider3"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:background="?android:attr/listDivider"
+        android:scrollbarSize="4dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="214dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="149dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/ClinicNameID"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:text="ClinicName"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/RatingID"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="Rating"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/AddressID"
+                android:layout_width="147dp"
+                android:layout_height="25dp"
+                android:text="Address"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/waitTimeID"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="waitTime" />
+
+            <Button
+                android:id="@+id/BookID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Book"
+                android:textColor="#000000" />
+
+            <Button
+                android:id="@+id/RateID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rate"
+                android:textColor="#000000" />
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/ServicesView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+</LinearLayout>

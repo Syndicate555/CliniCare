@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989275479260",
+    "firebase_url": "https://intercrew2019.firebaseio.com",
+    "project_id": "intercrew2019",
+    "storage_bucket": "intercrew2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989275479260:android:f6c526f75cff4760f12819",
+        "android_client_info": {
+          "package_name": "com.example.intercrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989275479260-u5fctcb25te5ruqpnat33orkdrlef3aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR2G_GUAY9fKQgeKvFhvNw2x1_SJJ_DUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989275479260-u5fctcb25te5ruqpnat33orkdrlef3aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

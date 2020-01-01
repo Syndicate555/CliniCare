@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/StartTimeViewId"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="Start Time" />
+
+        <EditText
+            android:id="@+id/editStartHour"
+            android:layout_width="37dp"
+            android:layout_height="wrap_content"
+            android:hint="hr"
+            android:inputType="number" />
+
+        <TextView
+            android:id="@+id/colonView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="  :" />
+
+        <EditText
+            android:id="@+id/editStartMin"
+            android:layout_width="37dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editServiceName"
+            android:hint="min"
+            android:inputType="number" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/divider2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/EndTimeViewId2"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="End Time" />
+
+        <EditText
+            android:id="@+id/editEndHour"
+            android:layout_width="37dp"
+            android:layout_height="wrap_content"
+            android:hint="hr"
+            android:inputType="number" />
+
+        <TextView
+            android:id="@+id/colonView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="  :" />
+
+        <EditText
+            android:id="@+id/editEndMin"
+            android:layout_width="37dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editServiceName"
+            android:hint="min"
+            android:inputType="number" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonUpdateWorkHours"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="Update" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"/>
+
+
+</LinearLayout>
