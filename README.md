@@ -1,5 +1,7 @@
 # CliniCare
-A mobile android application developed in Android  Studio as part of my semester long project for my software engineering class
+A mobile android application developed from scratch in Android Studio as part of my semester long project for my software engineering class at Uottawa. The entire app was coded using JAVA and for the backend, I have used firebase Email/password authentication to store the User credentials. 
+
+This project was started on september 2019 and completed on December 2019. 
 
 ## ScreenShots
 
