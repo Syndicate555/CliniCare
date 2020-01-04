@@ -3,6 +3,10 @@ A mobile android application developed from scratch in Android Studio as part of
 
 This project was started on september 2019 and completed on December 2019. Feel free to download the APK file in the deployed APK folder to try out the app.
 
+#### Admin Credentials
+username: admin
+password: 5T5ptQ
+
 ## ScreenShots
 
 ### HomeScreen
